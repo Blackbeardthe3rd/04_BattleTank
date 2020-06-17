@@ -14,4 +14,4 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + Heavy focus on control systems
 + Also learning terrains, UI, terrain sculpting & more
 + Dive right in and enjoy yourself!
-
+*BT02 Game Design Document(GDD)
