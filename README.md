@@ -17,3 +17,6 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 
 ### BT02 Game Design Document(GDD)
 + Getting it Done
+
+### FUCKING GIT BULLSHIT
++Hope this works!
